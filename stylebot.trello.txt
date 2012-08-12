@@ -1,4 +1,4 @@
 {
-"trello.com":{"_enabled":true,"_rules":{"div.list-card.js-member-droppable.clearfix.green-label.ui-droppable":{"background-color":"green"},"div.list-card.js-member-droppable.clearfix.orange-label.ui-droppable":{"background-color":"orange"},"div.list-card.js-member-droppable.clearfix.red-label.ui-droppable":{"background-color":"red"}}},
+"trello.com":{"_enabled":true,"_rules":{"div.list-card.js-member-droppable.clearfix.green-label.ui-droppable":{"background-color":"green"},"div.list-card.js-member-droppable.clearfix.yellow-label.ui-droppable":{"background-color":"yellow"},"div.list-card.js-member-droppable.clearfix.orange-label.ui-droppable":{"background-color":"orange"},"div.list-card.js-member-droppable.clearfix.red-label.ui-droppable":{"background-color":"red"}}},
 "*":{"_enabled":true,"_rules":{}}
 }
