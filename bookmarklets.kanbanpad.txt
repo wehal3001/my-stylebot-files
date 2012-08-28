@@ -1,3 +1,5 @@
-// TOGGLE
+// TOGGLE WIP
 javascript:$('section.edit-wip.status').toggle();
 
+// TOGGLE ALL BUT RED
+javascript:$('li.blue').toggle();$('li.brown').toggle();$('li.green').toggle();$('li.orange').toggle();$('li.yellow').toggle();$('li.purple').toggle();
